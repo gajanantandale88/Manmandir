@@ -1,0 +1,6 @@
+{
+  "name": "MANMANDIR",
+  "description": "Housing society management system for Manmandir Cooperative Housing Society (Proposed)",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
